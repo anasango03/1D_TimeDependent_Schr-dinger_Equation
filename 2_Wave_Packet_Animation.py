@@ -45,7 +45,7 @@ import io
 
 # Parámetros
 # ========================================
-file_in = "C:/Users/Usuario/Desktop/UGR/COMPU/Problema3/datos.txt" # Nombre del fichero de datos
+file_in = "datos.txt" # Nombre del fichero de datos
 file_out = "schrodinger" # Nombre del fichero de salida (sin extensión)
 interval = 100 # Tiempo entre fotogramas en milisegundos
 save_to_file = False # False: muestra la animación por pantalla,
