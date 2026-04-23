@@ -119,7 +119,7 @@ print(norma)
 
 datos=np.zeros((N+2,3))
 
-with open('C:/Users/Usuario/Desktop/UGR/COMPU/Problema3/datos1.txt', 'w') as f:
+with open('datos.txt', 'w') as f:
     for n in range(t_s):
         for j in range(N):
             datos[j][0]=j
